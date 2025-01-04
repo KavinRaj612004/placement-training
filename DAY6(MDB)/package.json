@@ -1,0 +1,16 @@
+{
+  "name": "kecbackend",
+  "version": "1.0.0",
+  "description": "This is a backend repo",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prasanth Krupanandam Sivagami",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
